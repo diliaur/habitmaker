@@ -5,3 +5,7 @@
 .success {
 	background-color: #42f498;
 }
+.reset-field {
+	padding-top:1em;
+	text-align:right;
+}
