@@ -6,7 +6,7 @@ var rewards = [
 	"stand up and stretch",
 	"go get a coffee",
 	"get something from the vending machine",
-	"pick a youtube video to watch (don't dawdle)",
+	"pick one youtube video to watch (don't dawdle)",
 	"art break! doodle something on a piece of paper",
 	"read an article you've put aside",
 	"take a 15 minute break and do anything you want",
